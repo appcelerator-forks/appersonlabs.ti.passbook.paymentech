@@ -1,0 +1,1 @@
+module.exports = [{"isClass":true,"priority":10000.0002,"key":"container","style":{backgroundColor:"white",}},{"isId":true,"priority":100000.0003,"key":"textLog","style":{top:0,height:"20%",width:"100%",borderWidth:"2",borderColor:"#000",value:"AppLog: see device log for more info",}},{"isId":true,"priority":100000.0004,"key":"tableView","style":{top:"20%",}}];

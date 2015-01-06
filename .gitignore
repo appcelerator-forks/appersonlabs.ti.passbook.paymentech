@@ -1,0 +1,10 @@
+ios/example/build
+ios/iphone/build/*
+.DS_Store
+iphone/build
+example/modules
+example/module
+example/build
+build
+modules
+iphone/ti.passbook.paymentech-iphone-1.0.0.zip
